@@ -2,7 +2,6 @@
 ## Importar bases de datos
 * Pandas ofrece diversas funciones para importar y exportar datos en diferentes formatos. Las principales funciones de Pandas para importar datos son las siguientes:
 
-| :--: | --:|
 |`read_csv( )`| Esta función se utiliza para leer archivos CSV (Comma Separated Values), que son archivos de texto que contienen datos separados por comas. Es posible proporcionar varios parámetros para personalizar la lectura del CSV, como el delimitador, el encabezado, el tipo de codificación, entre otros.
 
 |`read_excel( )`| Esta función se utiliza para leer archivos de Excel (.xls o .xlsx) y crear un DataFrame a partir de los datos.
